@@ -1,16 +1,17 @@
-## Hi there 👋
+# Daryl Baptiste
 
-<!--
-**jbdaryl/jbdaryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Network Operations Analyst & Aspiring Network Engineer
 
-Here are some ideas to get you started:
+- 🌍 Based in Florida
+- 💼 Senior Network Operations Analyst
+- 📜 Cisco CCNA | AWS Cloud Practitioner | Security+
+- 🗣️ Native English & French, conversational Spanish
+- Interest in Network Automoat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Multi-vendor NOC experience across Cisco, Juniper, Nokia Altiplano, MikroTik, Fortinet, Ruckus SmartZone, spanning US and Canadian sites.
+I’m what you’d call a lifelong learner with a solid foundation in IT. I’m currently expanding my expertise in Networking and cloud technologies and diving deeper into infrastructure, and automation. I believe that while AI and the cloud are driving innovation today, they rely on a solid backbone of infrastructure to truly thrive. That’s why I’m passionate about understanding and building the systems that support these technologies, ensuring they’re secure, scalable, and efficient.
+---
+
+### Currently Building
+
+**[enterprise-network-lab](https://github.com/jbdaryl/enterprise-network-lab)** — a self-built enterprise network topology in GNS3: dual ISP edge, redundant core/distribution switching, VRRP gateway redundancy, OSPF Area 0, and a full security baseline — built from scratch to develop hands-on skills beyond CCNA, toward network engineering roles.
